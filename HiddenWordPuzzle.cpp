@@ -84,7 +84,6 @@ void header() {
 
 void info() {
 	cout << setw((line_size / 2) + 4) << "- INFO -" << endl;
-	cout << "- This is \"Project-1\" for COMP-113 Programming Principles II" << endl;
 	cout << "- The program can find hidden words: Diagonal, Forward, Backward, Up, and Down" << endl;
 	cout << "- Ability to save your solved puzzle to a file" << endl;
 	cout << "- Warning: Uses Windows specific libraries" << endl;
